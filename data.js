@@ -98,7 +98,7 @@ var APP_DATA = {
           "yaw": 0.5060087544519583,
           "pitch": 0.4081913395338397,
           "title": "Aquatic Invertebrates",
-          "text": "Like all waterways, The Frankstown Branch of the Juniata River has a wealth of living creatures. Aquatic invertebrates live part of their life hidden under rocks or clinging to sunken branches. Those which emerge from the water and transform are a favorite of the Trout. Native birds and bats feast on the flying adult as the “hatches” of the adult insects emerge. Their population, like land insects, have declined by about 1/3 in the last 40 years as have the population of native birds which don’t then have enough food to thrive. <img src='./img/AquaticInvertebrates.png' alt='The different types of Aquatic Invertebrates that live in the river.' style='width:260px;height:260px;'>"
+          "text": "Like all waterways, The Frankstown Branch of the Juniata River has a wealth of living creatures. Aquatic invertebrates live part of their life hidden under rocks or clinging to sunken branches. Those which emerge from the water and transform are a favorite of the Trout. Native birds and bats feast on the flying adult as the “hatches” of the adult insects emerge. Their population, like land insects, have declined by about 1/3 in the last 40 years as have the population of native birds which don’t then have enough food to thrive. <img src='./img/AquaticInvertebrates.png' alt='The different types of Aquatic Invertebrates that live in the river.' style='width:260px;height:280px;'>"
         },
         {
           "yaw": -1.8012698692657363,
