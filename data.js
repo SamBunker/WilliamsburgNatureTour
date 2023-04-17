@@ -692,7 +692,7 @@ var APP_DATA = {
           "yaw": -0.10108947243507238,
           "pitch": -0.2740820483018833,
           "title": "Indian Head Rock",
-          "text": "Through the trees, you can see a notable geological formation commonly called Indian Rock or Indian head rock which some see as a profile of a Native American “chief in full length feathered headdress.” These rocks are part of the Gatesburg Formation, dating between 485 and 541 million years old. The formation was made of harder rocks which remained while the surrounding rock had eroded. It is best seen in the winter when leaves are off the trees.<img src='./img/IndianRock.png' alt='A picture of Indian Rock taken from the trail.' style='width:200px;height:200px;'>"
+          "text": "Through the trees, you can see a notable geological formation commonly called Indian Rock or Indian head rock which some see as a profile of a Native American “chief in full length feathered headdress.” These rocks are part of the Gatesburg Formation, dating between 485 and 541 million years old. The formation was made of harder rocks which remained while the surrounding rock had eroded. It is best seen in the winter when leaves are off the trees.<img src='./img/IndianRock.png' alt='A picture of Indian Rock taken from the trail.' style='width:220px;height:200px;'>"
         },
         {
           "yaw": -3.035894094207034,
